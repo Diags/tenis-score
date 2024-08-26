@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score.config;
+package bforbank.tenis_score.config;
 /**
  * Classe contenant des constantes explicites pour le jeu de tennis.
  */

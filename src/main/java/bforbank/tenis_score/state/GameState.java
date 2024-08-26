@@ -1,6 +1,6 @@
-package bouyguestelecom.tenis_score.state;
+package bforbank.tenis_score.state;
 
-import bouyguestelecom.tenis_score.config.TennisGame;
+import bforbank.tenis_score.config.TennisGame;
 
 /**
  * Interface représentant un état du jeu de tennis.

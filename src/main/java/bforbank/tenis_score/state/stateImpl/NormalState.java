@@ -1,8 +1,8 @@
-package bouyguestelecom.tenis_score.state.stateImpl;
+package bforbank.tenis_score.state.stateImpl;
 
-import bouyguestelecom.tenis_score.config.Constants;
-import bouyguestelecom.tenis_score.config.TennisGame;
-import bouyguestelecom.tenis_score.state.GameState;
+import bforbank.tenis_score.config.Constants;
+import bforbank.tenis_score.config.TennisGame;
+import bforbank.tenis_score.state.GameState;
 
 /**
  * État du jeu lorsque le score est normal, sans avantage ni égalité.

@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score.controller;
+package bforbank.tenis_score.controller;
 
 import java.util.List;
 
@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import bouyguestelecom.tenis_score.config.Constants;
-import bouyguestelecom.tenis_score.dto.ErrorResponseDto;
-import bouyguestelecom.tenis_score.dto.TennisScoreResponseDto;
-import bouyguestelecom.tenis_score.service.TennisService;
-import bouyguestelecom.tenis_score.utils.Utils;
+import bforbank.tenis_score.config.Constants;
+import bforbank.tenis_score.dto.ErrorResponseDto;
+import bforbank.tenis_score.dto.TennisScoreResponseDto;
+import bforbank.tenis_score.service.TennisService;
+import bforbank.tenis_score.utils.Utils;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

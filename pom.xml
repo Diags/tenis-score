@@ -8,7 +8,7 @@
 		<version>3.3.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>BandYou</groupId>
+	<groupId>bforbank</groupId>
 	<artifactId>tennis-score</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tenis-score</name>

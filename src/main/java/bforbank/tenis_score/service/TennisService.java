@@ -1,12 +1,12 @@
-package bouyguestelecom.tenis_score.service;
+package bforbank.tenis_score.service;
 
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.stereotype.Service;
 
-import bouyguestelecom.tenis_score.config.Constants;
-import bouyguestelecom.tenis_score.config.TennisGame;
-import bouyguestelecom.tenis_score.utils.Utils;
+import bforbank.tenis_score.config.Constants;
+import bforbank.tenis_score.config.TennisGame;
+import bforbank.tenis_score.utils.Utils;
 
 /**
  * Service pour gérer les calculs et la logique du score du jeu de tennis.

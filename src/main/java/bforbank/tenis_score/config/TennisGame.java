@@ -1,7 +1,7 @@
-package bouyguestelecom.tenis_score.config;
+package bforbank.tenis_score.config;
 
-import bouyguestelecom.tenis_score.state.GameState;
-import bouyguestelecom.tenis_score.state.stateImpl.NormalState;
+import bforbank.tenis_score.state.GameState;
+import bforbank.tenis_score.state.stateImpl.NormalState;
 
 /**
  * Classe représentant un jeu de tennis.

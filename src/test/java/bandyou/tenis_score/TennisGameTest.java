@@ -9,8 +9,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import bouyguestelecom.tenis_score.config.TennisGame;
-import bouyguestelecom.tenis_score.service.TennisService;
+import bforbank.tenis_score.config.TennisGame;
+import bforbank.tenis_score.service.TennisService;
 
 /**
  * Classe de test unitaire pour la classe {@link TennisGame}.

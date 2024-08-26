@@ -4,8 +4,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import bouyguestelecom.tenis_score.config.Constants;
-import bouyguestelecom.tenis_score.config.TennisGame;
+import bforbank.tenis_score.config.Constants;
+import bforbank.tenis_score.config.TennisGame;
 
 
 /**

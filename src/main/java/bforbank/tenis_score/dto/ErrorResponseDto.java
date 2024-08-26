@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score.dto;
+package bforbank.tenis_score.dto;
 
 import java.time.LocalDateTime;
 

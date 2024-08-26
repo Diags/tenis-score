@@ -13,11 +13,11 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 
-import bouyguestelecom.tenis_score.TenisScoreApplication;
-import bouyguestelecom.tenis_score.config.Constants;
-import bouyguestelecom.tenis_score.controller.TennisController;
-import bouyguestelecom.tenis_score.dto.TennisScoreResponseDto;
-import bouyguestelecom.tenis_score.service.TennisService;
+import bforbank.tenis_score.TenisScoreApplication;
+import bforbank.tenis_score.config.Constants;
+import bforbank.tenis_score.controller.TennisController;
+import bforbank.tenis_score.dto.TennisScoreResponseDto;
+import bforbank.tenis_score.service.TennisService;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;

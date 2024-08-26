@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score.exception;
+package bforbank.tenis_score.exception;
 
 import java.time.LocalDateTime;
 import java.util.HashMap;
@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import bouyguestelecom.tenis_score.dto.ErrorResponseDto;
+import bforbank.tenis_score.dto.ErrorResponseDto;
 
 /**
  * Gestionnaire des exceptions pour le contrôleur de tennis.
