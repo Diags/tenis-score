@@ -75,7 +75,7 @@ Alternativement, vous pouvez exécuter l'application directement avec Java aprè
 ### Lancer une Simulation de Jeu
 Une fois l'application démarrée, vous pouvez simuler un jeu de tennis en appelant la méthode play du TennisGameService avec une chaîne de caractères représentant les points gagnés par les joueurs. Par exemple:
   ``` 
-  curl "http://localhost:8080/tennis-score?input=ABABAA"
+  curl "http://localhost:8080/tenis-score?input=ABABAA"
 
   ``` 
 ### Exemple de Sortie
@@ -86,14 +86,19 @@ Player A: 15 / Player B: 15
 Player A: 30 / Player B: 15
 Player A: 30 / Player B: 30
 Player A: 40 / Player B: 30
-Player A gagne le jeu
-
+Player A wins the game
 ``` 
    <img src="./src/main/resources/assets/cap1.png" width="500"/>
-      <img src="./src/main/resources/assets/cap2.png" width="500"/>
+   <img src="./src/main/resources/assets/cap2.png" width="500"/>
+   
 ```
+
   Test d'un argument contenant des chiffres.
+
+``` 
  <img src="./src/main/resources/assets/capErr3.png" width="500"/>
+ 
+ ``` 
 
 # INFOS UTILS
 ### SWAGGER
