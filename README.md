@@ -38,7 +38,7 @@ src/test/java/com/example/tennis/ : Tests unitaires pour vérifier le comporteme
 
 * pom.xml : Fichier de configuration Maven.
 
-* HELP.md : Documentation du projet.
+* README.md : Documentation du projet.
 ## Installation et Configuration
 ###  Cloner le Répertoire
 * Clonez le projet depuis le dépôt Git:
@@ -89,9 +89,9 @@ Player A gagne le jeu
 ``` 
    <img src="./src/main/resources/assets/cap1.png" width="500"/>
       <img src="./src/main/resources/assets/cap2.png" width="500"/>
-
+```
   Test d'un argument contenant des chiffres.
-            <img src="./src/main/resources/assets/capErr3.png" width="500"/>
+ <img src="./src/main/resources/assets/capErr3.png" width="500"/>
 
 # INFOS UTILS
 ### SWAGGER
