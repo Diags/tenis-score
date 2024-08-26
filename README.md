@@ -5,14 +5,16 @@ Ce projet implémente un système de calcul de score pour un jeu de tennis simpl
 ### Fonctionnalités
 * Calcul du score de tennis selon les règles officielles.
 * Gestion des états de jeu: Score normal, Deuce, Avantage, et Victoire.
-* Utilisation de Optional pour des opérations null-safe.
-* Implémentation des meilleures pratiques modernes de Java 21.
+* Gestion des  null-safe.
+* Gestion des erreurs @ExceptionHandler
+* Utilisation du design patern state.
+* Découpage modulaires des fonctionnalités
 * Tests unitaires et integration pour valider la logique de calcul de score.
 
 ### Prérequis
 * Java 21 : Assurez-vous que Java 21 est installé sur votre machine.
 * Maven 3.8+ : Pour la gestion des dépendances et le build du projet.
-* Spring Boot 3.1.0 : Utilisé pour le cadre du projet et l'injection de dépendances.
+* Spring Boot 3.3.3 : Utilisé pour le cadre du projet et l'injection de dépendances.
 
 ### Structure du Projet
 
@@ -25,7 +27,7 @@ Ce projet implémente un système de calcul de score pour un jeu de tennis simpl
 ### Explication des Dossiers
 * src/main/java/com/example/tennis/ : Contient le code source principal.
 
-  * config/ : Configuration de l'application Spring Boot.
+  * config/ : Configuration du jeu.
   * controller/ : Exposition  d'un enpoint "tennis-score".
   * service/ : Contient la logique métier principale pour le calcul du score de tennis.
   * state/ : Implémentations des différents états du jeu de tennis.
@@ -34,7 +36,7 @@ Ce projet implémente un système de calcul de score pour un jeu de tennis simpl
 
   * application.properties : Fichier de configuration principal de Spring Boot.
   * asset : folder image.
-src/test/java/com/example/tennis/ : Tests unitaires pour vérifier le comportement de l'application et integration.
+src/test/: Tests unitaires pour vérifier le comportement de l'application et integration.
 
 * pom.xml : Fichier de configuration Maven.
 
