@@ -1,4 +1,4 @@
-package bandyou.tenis_score;
+package bforbank.tenis_score;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;
