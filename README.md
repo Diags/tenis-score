@@ -46,7 +46,7 @@ src/test/: Tests unitaires pour vérifier le comportement de l'application et in
 * Clonez le projet depuis le dépôt Git:
  ``` 
  git clone https://github.com/Diags/tenis-score.git
- cd tennis-score
+ cd tenis-score
 ```
 ### Construire le Projet
 Utilisez Maven pour construire le projet:
