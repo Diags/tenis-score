@@ -1,4 +1,4 @@
-# Tenis Project: Bouyguestelecom
+# Tenis Project: B&You
 ### Description
 Ce projet implémente un système de calcul de score pour un jeu de tennis simple en utilisant Java 21 et Spring Boot. L'objectif est de simuler les règles de base du tennis et de déterminer le score après chaque point gagné, ainsi que de déclarer le gagnant du jeu. Le projet utilise un design pattern basé sur l'état pour gérer les transitions de score et les règles spéciales comme l'égalité ("deuce") et l'avantage.
 
