@@ -106,11 +106,9 @@ Player A wins the game
 
  http://localhost:8080/swagger-ui/index.html#/Tenis%20score%20API
  
+ <img src="./src/main/resources/assets/cap4.png" width="500"/>
+ 
 ``` 
-
-<img src="./src/main/resources/assets/cap4.png" width="500"/>
-
-
 ### Wikipedia:
 https://en.wikipedia.org/wiki/Tennis#Scoring
  pour les règles de tennis
