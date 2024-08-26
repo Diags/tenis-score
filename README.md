@@ -43,7 +43,7 @@ src/test/java/com/example/tennis/ : Tests unitaires pour vérifier le comporteme
 ###  Cloner le Répertoire
 * Clonez le projet depuis le dépôt Git:
  ``` 
- git clone https://github.com/votre-utilisateur/tennis-score.git
+ git clone https://github.com/Diags/tenis-score.git
  cd tennis-score
 ```
 ### Construire le Projet
