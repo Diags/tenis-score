@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score;
+package bandyou.tenis_score;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.BeforeEach;

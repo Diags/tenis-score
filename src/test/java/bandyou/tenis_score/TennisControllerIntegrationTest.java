@@ -1,4 +1,4 @@
-package bouyguestelecom.tenis_score;
+package bandyou.tenis_score;
 
 import static org.mockito.Mockito.when;
 
@@ -13,6 +13,7 @@ import org.springframework.http.MediaType;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.web.servlet.MockMvc;
 
+import bouyguestelecom.tenis_score.TenisScoreApplication;
 import bouyguestelecom.tenis_score.config.Constants;
 import bouyguestelecom.tenis_score.controller.TennisController;
 import bouyguestelecom.tenis_score.dto.TennisScoreResponseDto;
